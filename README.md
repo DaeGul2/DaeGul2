@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-😞 
+---
+## 💥About Myself
+- Min TaeHee / Seoul, South Korea
+- Favorites : Basketball🏀 WorkingOut💪 LOL🎮
+- Greetings : don't get up until it's over :fire:
+- Gmail : alsxogml1234@gmail.com
+
+
+---
+## 🎨 Tech Stacks
+<img src='html.svg' style='background-color:#E34F26; width:20px;'>
 
 
 
