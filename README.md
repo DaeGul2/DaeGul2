@@ -10,7 +10,13 @@
 
 ---
 ## 🎨 Tech Stacks
-<img src='html.svg' style='color:#E34F26; width:20px;'>
+<img src='html.svg' style='background-color:#E34F26; width:20px;'>
+<img src='css.svg' style='background-color:#1572B6; width:20px;'>
+<img src='javascript.svg' style='background-color:#F7DF1E; width:20px;'>
+<img src='node.svg' style='background-color:#339933; width:20px;'>
+<img src='mysql.svg' style='background-color:#4479A1; width:20px;'>
+<img src='react.svg' style='background-color:#61DAFB; width:20px;'>
+<img src='vue.svg' style='background-color:#4FC08D; width:20px;'>
 
 
 
