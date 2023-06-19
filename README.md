@@ -3,6 +3,7 @@
 ---
 ## 💥About Myself
 - Min TaeHee / Seoul, South Korea
+- SungkyunKwan Univ, Philosophy & Software
 - Favorites : Basketball🏀 WorkingOut💪 LOL🎮
 - Greetings : don't get up until it's over :fire:
 - Gmail : alsxogml1234@gmail.com
