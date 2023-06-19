@@ -11,7 +11,7 @@
 
 ---
 ## 🎨 Tech Stacks
-<img src='html.svg' style='background-color:#E34F26; width:20px;'>
+<img src='html.svg' >
 <img src='css.svg' style='background-color:#1572B6; width:20px;'>
 <img src='javascript.svg' style='background-color:#F7DF1E; width:20px;'>
 <img src='node.svg' style='background-color:#339933; width:20px;'>
