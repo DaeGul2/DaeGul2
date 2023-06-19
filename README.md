@@ -10,7 +10,7 @@
 
 ---
 ## 🎨 Tech Stacks
-<img src='html.svg' style='background-color:#E34F26; width:20px;'>
+<img src='html.svg' style='color:#E34F26; width:20px;'>
 
 
 
